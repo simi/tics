@@ -1,0 +1,8 @@
+button {
+  vertical-align: top;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  line-height: 20px;
+  font-size: 20px;
+}
